@@ -31,3 +31,16 @@ This project enables controlling an LED using hand gestures by combining compute
 - **LED**
 - **330Ω Resistor**
 - **Jumper Wires**
+
+## Setup Instructions
+- Install Python Libraries: Use the provided requirements.txt file to install all necessary Python libraries.
+
+ ### Arduino Setup:
+ - Connect the LED and resistor to the specified digital pin on the Arduino.
+Ensure the Arduino IDE is installed and serial communication is configured for a baud rate of 9600.
+Upload the Arduino code for receiving commands and controlling the LED.
+Configure Python Script:
+
+- Verify the correct serial port (e.g., COM3 or /dev/ttyUSB0 based on your system) is specified in the Python script.
+Ensure the camera is working and accessible for OpenCV to capture video frames.
+

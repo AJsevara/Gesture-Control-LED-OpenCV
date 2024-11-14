@@ -34,7 +34,7 @@ This project enables controlling an LED using hand gestures by combining compute
 
 
 
-## Industrial Applications :
+## Industrial Applications
 - In the context of Industry 4.0, integrating gesture control systems, such as controlling devices with hand gestures via computer vision and microcontroller hardware, has the potential to significantly impact industrial environments. Industry 4.0 emphasizes the digital transformation of industries, incorporating automation, IoT, AI, and real-time data to create highly efficient, connected, and intelligent systems. Here’s how gesture-based control systems can contribute to and align with Industry 4.0 principles
 
  ### Enhanced Human-Machine Interaction (HMI) :

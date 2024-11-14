@@ -44,3 +44,8 @@ Configure Python Script:
 - Verify the correct serial port (e.g., COM3 or /dev/ttyUSB0 based on your system) is specified in the Python script.
 Ensure the camera is working and accessible for OpenCV to capture video frames.
 
+
+## Troubleshooting
+- Serial Port Issues: Confirm the correct port in the script settings. Ensure no other program is using the serial port.
+- LED Not Responding: Verify that the LED is connected properly and the resistor is in place. Confirm that the Arduino code was successfully uploaded.
+- Hand Detection Problems: Ensure adequate lighting and make sure your hand is fully visible within the camera frame.

@@ -55,6 +55,3 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows()
 arduino.close()
-  
-
-  #end of code
